@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-ts": "^6.0.0-beta.22",
+    "install": "^0.13.0",
+    "npm": "^9.8.1",
+    "typescript": "^1.7.5"
+  }
+}

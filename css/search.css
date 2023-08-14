@@ -5,3 +5,9 @@
 .selectize-dropdown {
     width: 100% !important;
 }
+
+.selectize-dropdown-content {
+  max-height: 600px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
